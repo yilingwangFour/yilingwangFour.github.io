@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>每日笔记</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="icon" href="_media/favicon.ico" />
+  <link rel="stylesheet" href="./css/vue.css">
+  <style>
+      /* 去掉目录前的短横线 */
+    .app-sub-sidebar li:before{
+        content: '';
+    }
+    .medium-zoom-image{
+        width: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">加载ing</div>
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: '',
+      search: 'auto', // 默认值
+      loadNavbar: true,
+      loadSidebar: true,
+    //   alias: {
+    //   '/.*/_sidebar.md': '/_sidebar.md'
+    // },
+      maxLevel: 4,
+      subMaxLevel: 4 // 配置最大层级,可折叠
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script> -->
+  <script src="./js/docsify@4.js"></script>
+  <!-- 代码高亮 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script> -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script> -->
+  <script src="./js/prism-bash.min.js"></script>
+  <script src="./js/prism-python.min.js"></script>
+  <!-- 搜索插件 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> -->
+  <!-- 添加图片缩放功能 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script> -->
+  <script src="./js/zoom-image.min.js"></script>
+  <!-- 代码复制功能 -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> -->
+  <script src="./js/docsify-copy-code.min.js"></script>
+  <!-- zoom -->
+
+
+  <script>
+//   if (typeof navigator.serviceWorker !== 'undefined') {
+//     navigator.serviceWorker.register('sw.js')
+//   }
+  </script>
+</body>
+</html>
