@@ -1,4 +1,4 @@
-- JS
-    - [day01](./Files/JS%E9%AB%98%E7%BA%A7.md)
-    - [day02](./Files/markdown/day02.md)
-    - [day03](./Files/markdown/day03.md)
+- JS 
+    - [day01](./Files/03%20JSAdvance/day01/JS-day01.md)
+    - [day02](./Files/03%20JSAdvance/day02/JS-day02.md)
+    - [day03](./Files/03%20JSAdvance/day03/JS-day03.md)
