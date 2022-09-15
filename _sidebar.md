@@ -15,6 +15,8 @@
     - [day02](./Files/03%20JSAdvance%2002/JS-day02.md)
     - [day03](./Files/03%20JSAdvance%2003/JS-day03.md)
     - [day04](./Files/03%20JSAdvance%2004/JS-day04.md)
-- 04 GitFiles
+- 04 Git
     - [day01](./Files/04%20Git%20day01/day01.md)
     - [day02](./Files/04%20Git%20day02/day02.md)
+- 05 vue.base 
+    - [day01](./Files/05.vue.base%20day02/vue02new.base.md)
