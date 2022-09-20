@@ -19,4 +19,6 @@
     - [day01](./Files/04%20Git%20day01/day01.md)
     - [day02](./Files/04%20Git%20day02/day02.md)
 - 05 vue.base 
-    - [day01](./Files/05.vue.base%20day02/vue02new.base.md)
+    - [day02](./Files/05.vue.base%20day02/vue02new.base.md)
+    - [day03](./Files/06.vue.base%20day03/vue03.base.md)
+    - [day04](./Files/07.vue.base%20day04/vue04.base.md)
